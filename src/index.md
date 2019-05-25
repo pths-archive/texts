@@ -1,3 +1,5 @@
+<!--?title Главная -->
+
 <div>
 <br/>
 <img src="https://pths-archive.github.io/static/img/pths2transp.png" alt="панорама нового здания Лицея ФТШ РАН" class="full-width"/>
