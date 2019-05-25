@@ -14,3 +14,7 @@
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CKzabpycmLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+МГ пишет что с семинара учителей физики в мае 2019 образовался диск с выступлениями МГ, М.М.Глазова и Минарского
+- забрать, закачать, транскрибировать, приобщить - по отзывам от зрителей было весьм любопытно для
+непосвященных.
