@@ -2,6 +2,20 @@
 
 # Жорес Иванович Алфёров
 
+<div class="row">
+  <div class="col-xl-2 offset-xl-3 col-sm-4">
+    <img src="https://pths-archive.github.io/static/img/zhores/zhores-young.jpg" class="img-fluid"/>
+  </div>
+  <div class="col-xl-2 col-sm-4">
+    <img src="https://pths-archive.github.io/static/img/zhores/zhores-middle.jpg" class="img-fluid"/>
+  </div>
+  <div class="col-xl-2 col-sm-4">
+    <img src="https://pths-archive.github.io/static/img/zhores/zhores-aged.jpg" class="img-fluid"/>
+  </div>
+</div>
+
+**TODO**
+
 На сайте АУ несколько интервью с ЖИ, ссылки на фотографии сломаны, надо скопировать и поправить:
 
 1. [о блокадном подвиге физтеха](http://old.spbau.ru/main/news/1698)
