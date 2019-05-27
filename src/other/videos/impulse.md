@@ -8,7 +8,6 @@
 Но материал прекрасен. Тем более что он уже старый :)
 
 <div class="row text-center">
-  <span class="hint">Жорес Иванович и Михаил Георгиевич на ДР школы</span></br>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/h1M65T1f4mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
