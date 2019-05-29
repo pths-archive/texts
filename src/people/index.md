@@ -13,6 +13,8 @@
 
 [Михаил Георгиевич Иванов](/people/mgivanov/index.html)
 
+[Игорь Александрович Меркулов](/people/merkulov/index.html)
+
 ...
 
 ### Учителя и Сотрудники
