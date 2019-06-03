@@ -6,16 +6,21 @@
 
 _Спасибо Сергею Малышеву за эту страницу!_
 
-Фото по окончании 8 класса, 1997 год  
-
 <div class="row">
-  <div class="col-xl-6 offset-xl-3 col-sm-12 text-center">
+  <div class="col-xl-6 col-sm-12 text-center">
+    Фото по окончании 8 класса, 1997 год <br/>
     <img src="https://pths-archive.github.io/static/img/classes/2000a/group-after-8.jpg" class="full-width"/><br/>
     <span class="hint"></span>
   </div>
+  <div class="col-xl-6 col-sm-12 text-center">
+    Фото по окончании школы, 2000 год <br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2000a/group-graduates.jpg" class="full-width"/><br/>
+    <span class="hint"></span>
+  </div>
 </div>
+<br/>
 
-Состав:
+### Состав
 
 - Афиногенов Виктор
 - Воеводский Александр +
@@ -41,3 +46,4 @@ _Спасибо Сергею Малышеву за эту страницу!_
 - Цветков Александр
 - Чекмарева (Преображенская) Елена
 - Шагламджян Карен
+
