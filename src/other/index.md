@@ -29,3 +29,5 @@
 
 Короткометражка [Бесшумные Лидеры](/other/videos/silent-leaders.html) - 1993 год,
 много интервью В.А.Рыжика
+
+[Видео с 1 сентября 1989 года (МГ, ВБВ)](/other/videos/5th-wheel-at-600-s-to-and-past-midnight.html)
