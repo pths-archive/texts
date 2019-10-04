@@ -7,7 +7,7 @@
 - прислала Александра Шагал
 
 <div class="row text-center">
-    <iframe width="560" height="315" src="https://youtu.be/9XCii57pk_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9XCii57pk_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Транскрипция
