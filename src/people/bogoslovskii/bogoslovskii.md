@@ -20,13 +20,13 @@ __Преподаватель физики и экспериментальной 
 Никто не идеален. Даже наши любимые учителя, на которых пытаемся равняться)
 >"В достижения можно записать, что не сдал и не пересдал зачет по алгебре в 9-м классе, и мне за это ничего не было :)"
 
-![2004а](https://github.com/DushkaF/static/blob/gh-pages/img/bogoslovskii/2004а.jpg"2004а")
+![2004а](https://github.com/DushkaF/static/blob/gh-pages/img/bogoslovskii/2004а.jpg "2004а")
 
 _Фотография 2004а_
 
 
-![Alt text](https://github.com/DushkaF/static/blob/gh-pages/img/bogoslovskii/bogoslovskii%20in%20Karelia.jpg"Никита Александрович на походе в Ихалу")
+![Никита Александрович на походе в Ихалу](https://github.com/DushkaF/static/blob/gh-pages/img/bogoslovskii/bogoslovskii%20in%20Karelia.jpg "Никита Александрович на походе в Ихалу")
 
-_Фотография от Владимира Борисовича из похода в Ихалу в августе 2001 года_
+_Фотография от Владимира Борисовича из похода в Ихалу [Карелия] в августе 2001 года_
 
 
