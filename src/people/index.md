@@ -25,6 +25,8 @@
 
 [Александр Адольфович Американцев](/people/amerikancev/index.html)
 
+[Никита Александрович Богословский](/people/bogoslovskii/index.html)
+
 ...
 
 ### Ученики по классам
