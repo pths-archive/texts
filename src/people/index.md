@@ -25,6 +25,8 @@
 
 [Александр Адольфович Американцев](/people/amerikancev/index.html)
 
+[Алексей Геннадьевич Зарембо](/people/zarembo.html)
+
 [Никита Александрович Богословский](/people/bogoslovskii/index.html)
 
 ...
@@ -49,6 +51,8 @@
 ...
 
 [2004-A](/people/classes/2004a/index.html) (Богословский, Фредерикс), 2004-Б, 2004-В
+
+[2003-A](/people/classes/2003a/index.html) (Дворкин, Кузнецов), 2003-Б, 2003-В
 
 ...
 
