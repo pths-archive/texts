@@ -25,7 +25,7 @@
 
 [Александр Адольфович Американцев](/people/amerikancev/index.html)
 
-[Алексей Геннадьевич Зарембо](/people/zarembo.html)
+[Алексей Геннадьевич Зарембо](/people/zarembo/index.html)
 
 [Никита Александрович Богословский](/people/bogoslovskii/index.html)
 
