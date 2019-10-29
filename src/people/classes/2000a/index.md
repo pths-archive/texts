@@ -9,12 +9,12 @@ _Спасибо Сергею Малышеву за эту страницу!_
 <div class="row">
   <div class="col-xl-6 col-sm-12 text-center">
     Фото по окончании 8 класса, 1997 год <br/>
-    <img src="https://pths-archive.github.io/static/img/classes/2000a/group-after-8.jpg" class="full-width"/><br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2000a/group-after-8.jpg" alt="класс 2000а ФТШ, в начале" class="full-width"/><br/>
     <span class="hint"></span>
   </div>
   <div class="col-xl-6 col-sm-12 text-center">
     Фото по окончании школы, 2000 год <br/>
-    <img src="https://pths-archive.github.io/static/img/classes/2000a/group-graduates.jpg" class="full-width"/><br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2000a/group-graduates.jpg" alt="класс 2000а ФТШ, выпуск" class="full-width"/><br/>
     <span class="hint"></span>
   </div>
 </div>

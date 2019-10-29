@@ -8,7 +8,7 @@
 
 <div class="row">
   <div class="col-xl-6 offset-xl-3 col-sm-12 text-center">
-    <img src="https://pths-archive.github.io/static/img/classes/1999a/all-at-beginning.jpg" class="full-width"/><br/>
+    <img src="https://pths-archive.github.io/static/img/classes/1999a/all-at-beginning.jpg" alt="класс 1999а ФТШ, в начале" class="full-width"/><br/>
     <span class="hint">Фихман, Глазов, Грешнов, Костко, Сёмина, Корчагин,
       Леденцов, Рыжаков; Кузнецов, Сидоров, Белинская, Татьяна Николаевна Иванова вместо МГ,
       Шмелькин, Горковенко, Каралдин; Штернин, Аникеева, Пивоварова, Дьячков, Буянова,

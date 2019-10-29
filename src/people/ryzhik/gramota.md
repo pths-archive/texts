@@ -9,7 +9,7 @@ _(спасибо за материал МГ и Анте Черновой)_
 
 <div class="row">
   <div class="col-xl-10 offset-xl-1 col-sm-12 text-center">
-    <img src="https://pths-archive.github.io/static/img/ryzhik/gramota.jpg" class="full-width"/><br/>
+    <img src="https://pths-archive.github.io/static/img/ryzhik/gramota.jpg" alt="Грамота В.А.Рыжика во 2-м классе 256 школы Ленинграда" class="full-width"/><br/>
     <span class="hint">Похвальная Грамота<br/>выдана ученику 2-го класса 256 школы гор. Ленинграда<br/><b>Рыжику Валерию</b><br/>
         за отличные успехи и примерное поведение.<br/>г.Ленинград, 20 мая 1946 г, №63</span>
   </div>
