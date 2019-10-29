@@ -8,7 +8,7 @@
 
 <div class="row">
   <div class="col-xl-6 offset-xl-3 col-sm-12 text-center">
-    <img src="https://pths-archive.github.io/static/img/classes/2021b/group-at-beginning.jpg" class="full-width"/><br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2021b/group-at-beginning.jpg" alt="класс 2021б ФТШ" class="full-width"/><br/>
     <span class="hint">Ивасенко, Орлов, Вахненко, Королев, Ткачев, Егорова, Клоков, Ипатов;
       Высоцкая, Харитонова, Дмитриев, Беляева, Верещагина, Сафронова, Степанов;
       Калиянц О.В., Малевская, Гавриш, Душко, Арбузов, Мосин, Атисков, Максимова О.В.</span>

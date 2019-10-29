@@ -4,13 +4,13 @@
 
 <div class="row">
   <div class="col-xl-2 offset-xl-3 col-sm-4">
-    <img src="https://pths-archive.github.io/static/img/zhores/zhores-young.jpg" class="img-fluid"/>
+    <img src="https://pths-archive.github.io/static/img/zhores/zhores-young.jpg" alt="Жорес Алферов в молодости" class="img-fluid"/>
   </div>
   <div class="col-xl-2 col-sm-4">
-    <img src="https://pths-archive.github.io/static/img/zhores/zhores-middle.jpg" class="img-fluid"/>
+    <img src="https://pths-archive.github.io/static/img/zhores/zhores-middle.jpg" alt="Жорес Алферов средних лет у доски" class="img-fluid"/>
   </div>
   <div class="col-xl-2 col-sm-4">
-    <img src="https://pths-archive.github.io/static/img/zhores/zhores-aged.jpg" class="img-fluid"/>
+    <img src="https://pths-archive.github.io/static/img/zhores/zhores-aged.jpg" alt="Жорес Алферов в солидном возрасте" class="img-fluid"/>
   </div>
 </div>
 

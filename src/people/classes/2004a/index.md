@@ -6,7 +6,7 @@
 
 <div class="row">
   <div class="col-xl-6 offset-xl-3 col-sm-12 text-center">
-    <img src="https://pths-archive.github.io/static/img/classes/2004a/2004a.jpg" class="full-width"/><br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2004a/2004a.jpg" alt="класс 2004а ФТШ" class="full-width"/><br/>
     <span class="hint">Слева направо: разобраться, подписать :)</span>
   </div>
 </div>
