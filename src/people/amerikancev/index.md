@@ -2,6 +2,14 @@
 
 # Александр Адольфович Американцев
 
+<div class="row">
+  <div class="col-xl-6 offset-xl-3 col-sm-12 text-center">
+    <img src="https://pths-archive.github.io/static/img/amerikancev/a3-in-old-physlab.jpg"
+        alt="Александр Адольфович Американцев в старой физлаборатории ФТШ" class="img-fluid"/><br/>
+        <span class="hint">А^3 в старой физлабе, где-то в дебрях ФТИ</span>
+  </div>
+</div>
+
 Кроме прочего здорово бы заполучить фоты ФизЛабы в ФизТехе а также взять
 какие-то отдельные интервью о том как это направление дошло до жизни такой.
 
