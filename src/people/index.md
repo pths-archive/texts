@@ -19,11 +19,19 @@
 
 ### Учителя и Сотрудники
 
+_пока без определенного порядка, извините - по мере появления материалов_
+
 [Валерий Адольфович Рыжик](/people/ryzhik/index.html)
 
 [Владимир Борисович Воловик](/people/volovik/index.html)
 
 [Александр Адольфович Американцев](/people/amerikancev/index.html)
+
+[Людмила Ивановна Амосова](/people/amosova/index.html)
+
+[Елена Аркадьевна Кудасова](/people/kudasova/index.html)
+
+[Елена Даниловна Климович](/people/klimovich/index.html)
 
 [Алексей Геннадьевич Зарембо](/people/zarembo/index.html)
 
