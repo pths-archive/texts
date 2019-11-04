@@ -7,13 +7,18 @@ _Материалами и информацией помогли Иван Фре
 Классный руководитель - Татьяна Николаевна Короченцева, позже Константин Михайлович Столбов
 
 <div class="row">
-  <div class="col-xl-6 offset-xl-3 col-sm-12 text-center">
+  <div class="col-xl-6 col-sm-12 text-center">
     Фото в 8 классе, 2000 год (?)<br/>
-    <img src="https://pths-archive.github.io/static/img/classes/2004a/2004a.jpg" alt="класс 2004а ФТШ" class="full-width"/><br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2004a/2004a.jpg" alt="класс 2004а ФТШ в начале" class="full-width"/><br/>
     <span class="hint">Слева-направо, стоят: Миша Лебедев, Андрей Разумовский, Паша Ступников, Стас Каява, Саша Скворцов, Андрей Рунов,
       Катя Сиренко, Ваня Фредерикс, Дима Булашевич, Леша Рытенков, Искандер Аманбаев;<br/>
       Сидят: Юра Перчуков, Антон Коротков, Никита Богословский, Толя Голант, Кирилл Чихачев, Наташа Голенецкая, Юля Сальникова;<br/>
       Сидят в первом ряду справа: Миша Веренцов, Саша Сафронова, Люся Петренко, Рома Белов.</span>
+  </div>
+  <div class="col-xl-6 col-sm-12 text-center">
+    Фото выпускное, 2004 год (?)<br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2004a/2004a-finish.jpg" alt="класс 2004а ФТШ, выпуск" class="full-width"/><br/>
+    <span class="hint">Тоже надо подписать будет :)</span>
   </div>
 </div>
 
@@ -42,3 +47,15 @@ _Материалами и информацией помогли Иван Фре
 1. Александр Скворцов
 1. Павел Ступников
 1. Иван Фредерикс
+
+<div class="row">
+  <div class="col-xl-6 col-sm-12 text-center">
+    Фото с ворохом дипломов, грамот и пр<br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2004a/2004a-diploma.jpg" alt="класс 2004а ФТШ, с дипломами разных лет" class="full-width"/><br/>
+  </div>
+  <div class="col-xl-6 col-sm-12 text-center">
+    И, видимо, тоже околовыпускной? Или годовщина выпуска? Или 10й класс?<br/>
+    <img src="https://pths-archive.github.io/static/img/classes/2004a/2004a-all.jpg" alt="класс 2004а ФТШ, непонятно когда" class="full-width"/><br/>
+  </div>
+</div>
+
