@@ -26,11 +26,16 @@
 > "В достижения можно записать, что не сдал и не пересдал зачет по алгебре в 9-м классе, и мне за это ничего не было :)"
 
 <div class="row">
-  <div class="col-xl-6 offset-xl-3 col-sm-12 text-center">
+  <div class="col-xl-6 col-sm-12 text-center">
     <img alt="Никита Александрович Богословский" class="full-width"
         src="https://raw.githubusercontent.com/pths-archive/static/gh-pages/img/bogoslovskii/bogoslovskii-in-karelia.jpg"/><br/>
     <span class="hint">Фото Никиты Александровича, сделанное <a href="/people/volovik/index.html">Владимиром Борисовичем</a>,
         в походе в Ихалу, Карелия, август 2001</span>
+  </div>
+  <div class="col-xl-6 col-sm-12 text-center">
+    <img alt="Никита Александрович Богословский - герой мемов" class="full-width"
+        src="https://raw.githubusercontent.com/pths-archive/static/gh-pages/img/bogoslovskii/at-the-board.jpg"/><br/>
+    <span class="hint">Никита Александрович популярен среди учеников и нередко становится героем мемов :)</span>
   </div>
 </div>
 
