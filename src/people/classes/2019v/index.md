@@ -41,6 +41,16 @@ _за материалы и помощь благодарим Христину �
 1. Даниил Эскоскин
 1. Виктор Юдов
 
+### Видеоколлекция класса
+
+<div class="row">
+  <div class="col-xl-6 offset-xl-3 col-sm-12 text-center embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fKA0DKmLaag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
+### Еще фотографии
+
 <div class="row">
   <div class="col-xl-4 col-sm-12 text-center">
     У ступеней школы, выпускное?<br/>
@@ -55,15 +65,5 @@ _за материалы и помощь благодарим Христину �
     В лабе, неформально :)<br/>
     <img src="https://pths-archive.github.io/static/img/classes/2019v/lab_a3_lies.jpg" alt="класс 2019в ФТШ, в лабе" class="full-width"/><br/>
   </div>
-  <div class="col-xl-6 offset-xl-6 col-sm-12 text-center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fKA0DKmLaag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
 </div>
 
-Видеоколлекция класса
-
-<div class="row">
-  <div class="col-xl-6 offset-xl-6 col-sm-12 text-center embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fKA0DKmLaag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
