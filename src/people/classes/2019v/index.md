@@ -44,8 +44,11 @@ _за материалы и помощь благодарим Христину �
 ### Видеоколлекция класса
 
 <div class="row">
-  <div class="col-xl-6 offset-xl-3 col-sm-12 text-center embed-responsive embed-responsive-16by9">
+  <div class="col-xl-6 col-sm-12 text-center embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fKA0DKmLaag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="col-xl-6 col-sm-12 text-center embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/I7aj3NEGBzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
